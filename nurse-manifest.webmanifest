@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "One Health Nurse",
+  "short_name": "One Health",
+  "description": "Nurse visits, tasks, earnings and mileage. Testing workspace.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#087b6b",
+  "icons": [
+    {
+      "src": "./nurse-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./nurse-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
